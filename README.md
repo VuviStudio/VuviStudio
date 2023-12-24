@@ -1,7 +1,6 @@
 ![Money GIF](https://media2.giphy.com/media/rY93u9tQbybks/giphy.gif)
 
-# Hello, I'm [Your Name]
-
+Yo I'm vuvi
 
 I specialize in developing applications across various languages:
 
