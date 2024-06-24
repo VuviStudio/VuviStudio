@@ -1,4 +1,6 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvistudio&label=Profile%20views&color=0e75b6&style=flat" alt="vuvistudio" /> </p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Fkxf3P8bdc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@VUVI612) 
 
@@ -16,6 +18,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vuvistudio&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvistudio&label=Profile%20views&color=0e75b6&style=flat" alt="vuvistudio" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
