@@ -1,6 +1,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuvistudio&label=Profile%20views&color=0e75b6&style=flat" alt="vuvistudio" /> </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VuviStudio/VuviStudio/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VuviStudio/VuviStudio/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VuviStudio/VuviStudio/output/github-snake.svg" />
+</picture>
 
 
 #  About Me:
@@ -15,8 +19,4 @@ I'm a developer who loves building bots, websites, games, and custom automation.
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VuviStudio&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VuviStudio/VuviStudio/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VuviStudio/VuviStudio/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VuviStudio/VuviStudio/output/github-snake.svg" />
-</picture>
+
